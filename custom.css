@@ -1,0 +1,36 @@
+#map {
+  height: 100%;
+  width: 70%;
+  margin: auto;
+}
+
+.postHeader {
+  padding-top: 4rem;
+}
+
+.postHeader > div {
+  margin: 0 auto;
+  width: 400px;
+  padding-bottom: 1rem;
+}
+
+#coords {
+  width: 400px;
+  height: 200px;
+}
+
+.coordsTextArea > div {
+  margin: 0 auto;
+  width: 400px;
+}
+
+html,
+body {
+  height: 75%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  color: #000000;
+  background-color: #d4d4d4;
+}
+
